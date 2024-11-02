@@ -8,6 +8,7 @@ A repository store some document of tricking website team. It is also a git prac
 | Example Name | Example Discord Name |
 | zhihao1021 | YEE |
 | mario3443 | OF_Mario |
+| swenbao | swenbao |
 
 ## Practice - Git
 ### Target
