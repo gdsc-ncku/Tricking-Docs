@@ -11,6 +11,7 @@ A repository store some document of tricking website team. It is also a git prac
 | swenbao | swenbao |
 | ouo314 | ouo314 |
 | New9c | ericgwhuang |
+| weiso131 | weiso131 |
 
 ## Practice - Git
 ### Target
