@@ -9,6 +9,7 @@ A repository store some document of tricking website team. It is also a git prac
 | zhihao1021 | YEE |
 | mario3443 | OF_Mario |
 | swenbao | swenbao |
+| New9c | ericgwhuang |
 
 ## Practice - Git
 ### Target
