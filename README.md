@@ -17,6 +17,7 @@ A repository store some document of tricking website team. It is also a git prac
 | Yuroppi | shubingdanta |
 |itisJoshuaTseng|j|
 | yuyun309 | yuuun93 |
+| gen-9ix | gen |
 
 ## Practice - Git
 ### Target
